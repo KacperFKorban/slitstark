@@ -2,7 +2,7 @@
 
 A poor man's mirror for value classes.
 
-> Slitstark (Swedish for "durable") but also the cheapest metalic ladle in ikea i.e. a very-poor man's mirror.
+> Slitstark - Swedish for "durable", but also the cheapest metalic ladle at Ikea i.e. a very-poor man's mirror.
 
 ## Description
 
