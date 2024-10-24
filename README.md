@@ -55,7 +55,7 @@ trait Show[T]:
     def show(x: T): String
 ```
 
-A standard derivation (with some simple instances) for `Show` can be written as follows. Please don't read the whole thing, I mostly stole it from the official docs for `Eq`. ([link]())
+A standard derivation (with some simple instances) for `Show` can be written as follows. Please don't read the whole thing, I mostly stole it from the official docs for `Eq`. ([link](https://dotty.epfl.ch/docs/reference/contextual/derivation.html))
 
 ```scala
 object Show:
